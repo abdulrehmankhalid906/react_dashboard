@@ -14,7 +14,7 @@ function Header() {
             {/* Here  to means link */}
           <Nav className="ms-auto navbar-wrapper">
             <Link to="/add">Product</Link>              
-            <Link to="/update">Update Product</Link>
+            <Link to="/update">UProduct</Link>
             <Link to="/login">Login</Link>
             <Link to="/register">Register</Link>
           </Nav>
